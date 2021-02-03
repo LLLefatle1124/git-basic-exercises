@@ -1,0 +1,1000 @@
+ 1087  clear
+ 1088  ng serve
+ 1089  clear
+ 1090  ng update
+ 1091  ng serve
+ 1092  git merge origin master
+ 1093  git merge origin/UseThisAsMaster 
+ 1094  ng serve
+ 1095  git status
+ 1096  git log
+ 1097  ng serve
+ 1098  clear
+ 1099  ng serve
+ 1100  clear
+ 1101  ng serve
+ 1102  clear
+ 1103  ng serve
+ 1104  sudo apt update 
+ 1105  ng upgrade
+ 1106  ng update
+ 1107  git merge origin/Lehlohonolo 
+ 1108  ng serve
+ 1109  clear
+ 1110  ng serve
+ 1111  cd ..
+ 1112  ls
+ 1113  cd TypeScript\ Lesson/
+ 1114  touch main.ts
+ 1115  code main.ts 
+ 1116  npm i -g typescript
+ 1117  tsc -v
+ 1118  tsc main.ts 
+ 1119  ls
+ 1120  tsc main.ts 
+ 1121  ls
+ 1122  tsc main.ts 
+ 1123  ls
+ 1124  cd ..
+ 1125  ls
+ 1126  cd AssestManagement-FrontEnd/
+ 1127  ls
+ 1128  ng serve
+ 1129  ls -a
+ 1130  cd .. && ls -a
+ 1131  rm -rf .git
+ 1132  ls
+ 1133  ls -a
+ 1134  cd nololie.github.io/
+ 1135  ls -a
+ 1136  cd ..
+ 1137  ls
+ 1138  cd TypeScript\ Lesson/
+ 1139  touch main.ts
+ 1140  tsc main.ts 
+ 1141  node main.js 
+ 1142  tsc main.ts 
+ 1143  node main.js 
+ 1144  tsc main.ts 
+ 1145  node main.js 
+ 1146  tsc main.ts 
+ 1147  node main.js 
+ 1148  tsc main.ts 
+ 1149  node main.js 
+ 1150  tsc main.ts 
+ 1151  node main.js 
+ 1152  tsc main.ts 
+ 1153  node main.js 
+ 1154  tsc main.ts 
+ 1155  node main.js 
+ 1156  tsc main.ts 
+ 1157  node main.js 
+ 1158  cd Desktop/
+ 1159  ls
+ 1160  cd Umuzi\ projects/
+ 1161  ld
+ 1162  ls
+ 1163  cd Product\ Team/
+ 1164  ls
+ 1165  code TypeScript\ Lesson/
+ 1166  ls
+ 1167  code TypeScript\ Lesson/
+ 1168  ls
+ 1169  cd ..
+ 1170  ls
+ 1171  code TypeScript\ Lesson/
+ 1172  ng sere
+ 1173  ng serve
+ 1174  ng serve --open
+ 1175  git log
+ 1176  ng serve
+ 1177  clear
+ 1178  ng serve
+ 1179  ng seerve
+ 1180  ng serve
+ 1181  clear
+ 1182  ng serve
+ 1183  ng -v
+ 1184  ng serve
+ 1185  +
+ 1186  ng serve
+ 1187  cd Desktop
+ 1188  node test.js 
+ 1189  clear
+ 1190  node test.js 
+ 1191  cd Desktop/
+ 1192  node test.js 
+ 1193  cd Desktop/
+ 1194  node test.js 
+ 1195  sudo apt update and upgrade
+ 1196  sudo apt update && upgrade
+ 1197  sudo apt-get ugprade
+ 1198  sudo apt-get upgrade
+ 1199  node lights.js 
+ 1200  clear
+ 1201  node lights.js 
+ 1202  clear
+ 1203  node lights.js 
+ 1204  clear
+ 1205  node lights.js 
+ 1206  clear
+ 1207  node lights.js 
+ 1208  clear
+ 1209  node lights.js 
+ 1210  clear
+ 1211  node lights.js 
+ 1212  clear
+ 1213  node lights.js 
+ 1214  clear
+ 1215  node lights.js 
+ 1216  clear
+ 1217  node lights.js 
+ 1218  clear
+ 1219  node lights.js 
+ 1220  clear
+ 1221  node lights.js 
+ 1222  clear
+ 1223  node lights.js 
+ 1224  clear
+ 1225  node lights.js 
+ 1226  clear
+ 1227  node lights.js 
+ 1228  clear
+ 1229  node lights.js 
+ 1230  clear
+ 1231  node lights.js 
+ 1232  clear
+ 1233  node lights.js 
+ 1234  clear
+ 1235  node lights.js 
+ 1236  clear
+ 1237  node lights.js 
+ 1238  clear
+ 1239  node lights.js 
+ 1240  clear
+ 1241  node lights.js 
+ 1242  clear
+ 1243  node lights.js 
+ 1244  clear
+ 1245  node lights.js 
+ 1246  clear
+ 1247  node lights.js 
+ 1248  clear
+ 1249  node lights.js 
+ 1250  clear
+ 1251  node lights.js 
+ 1252  clear
+ 1253  node lights.js 
+ 1254  clear
+ 1255  node lights.js 
+ 1256  clear
+ 1257  node lights.js 
+ 1258  clear
+ 1259  node lights.js 
+ 1260  clear
+ 1261  node lights.js 
+ 1262  clear
+ 1263  node lights.js 
+ 1264  clear
+ 1265  node lights.js 
+ 1266  clear
+ 1267  node lights.js 
+ 1268  clear
+ 1269  node lights.js 
+ 1270  clear
+ 1271  node lights.js 
+ 1272  clear
+ 1273  node lights.js 
+ 1274  clear
+ 1275  node lights.js 
+ 1276  clear
+ 1277  node lights.js 
+ 1278  clear
+ 1279  node lights.js 
+ 1280  clear
+ 1281  node lights.js 
+ 1282  clear
+ 1283  node lights.js 
+ 1284  clear
+ 1285  node lights.js 
+ 1286  ls
+ 1287  cd Desktop/
+ 1288  ng new front-end-coding-challange2
+ 1289  ng serve
+ 1290  clear
+ 1291  ng g service fetch-Data
+ 1292  ng g c search-component
+ 1293  clear
+ 1294  ng serve
+ 1295  clear
+ 1296  ng serve
+ 1297  git remote add origin https://github.com/nololie/lights-BackEndCodingChallenge.git
+ 1298  git init
+ 1299  git remote add origin https://github.com/nololie/lights-BackEndCodingChallenge.git
+ 1300  git push -u origin master
+ 1301  ng serve
+ 1302  clear
+ 1303  ng serve
+ 1304  clear
+ 1305  ng serve
+ 1306  ng v
+ 1307  ng serve
+ 1308  git fetch
+ 1309  code
+ 1310  ls
+ 1311  cd Desktop/
+ 1312  ld
+ 1313  ls
+ 1314  cd Umuzi\ projects/
+ 1315  ls
+ 1316  cd Product\ Team/
+ 1317  ls
+ 1318  mkdir AssestManagement-BackEnd
+ 1319  ls
+ 1320  cd AssestManagement-BackEnd/
+ 1321  cd ~
+ 1322  ls
+ 1323  cd Desktop/
+ 1324  cd Umuzi\ projects/
+ 1325  cd Product\ Team/
+ 1326  ls
+ 1327  cd AssestManagement-FrontEnd/
+ 1328  git clone https://github.com/Umuzi-org/Asset-Management.git
+ 1329  ls
+ 1330  cd Asset-Management/
+ 1331  cd ..
+ 1332  cd Asset-Management/
+ 1333  cd ..
+ 1334  rmdir Asset-Management/
+ 1335  rmdir -r Asset-Management/
+ 1336  rm -r Asset-Management/
+ 1337  ls
+ 1338  cd ..
+ 1339  ls
+ 1340  git clone https://github.com/Umuzi-org/Asset-Management.git
+ 1341  sudo docker exec -it b5e87ce3c6c0 bin/bash
+ 1342  doocker ps
+ 1343  docker ps
+ 1344  docker compose up
+ 1345  docker-compose up
+ 1346  cd src/
+ 1347  cd main/
+ 1348  cd resources/
+ 1349  docker-compose up
+ 1350  ls
+ 1351  docker-compose up
+ 1352  application up
+ 1353  docker-compose up
+ 1354  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+ 1355  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+ 1356  sudo apt-get update
+ 1357  sudo apt-get install postgresql
+ 1358  docker ps
+ 1359  sudo docker pull postgres:alpine
+ 1360  godmaster@godmaster:~$ sudo docker run --name assetmandb -e POSTGRES_PASSWORD=password -d -p 5432:5432 postgres:alpine
+ 1361  docker run --name assetmandb -e POSTGRES_PASSWORD=password -d -p 5432:5432 postgres:alpine
+ 1362  docker ps
+ 1363  docker ps -a
+ 1364  service  postgresql stop 
+ 1365  sudo service  postgresql stop 
+ 1366  docker start eef643125d40
+ 1367  sudo docker exec -it eef643125d40 bin/bash
+ 1368  docker exec -it b5e87ce3c6c0 bin/bash
+ 1369  docker ps
+ 1370  docker exec -it eef643125d40 bin/bash
+ 1371  docker ps
+ 1372  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1373  ng serve
+ 1374  curl -s "https://get.sdkman.io" | bash
+ 1375  sdk install gradle 6.5.1
+ 1376  source "$HOME/.sdkman/bin/sdkman-init.sh"
+ 1377  sdk version
+ 1378  sdk install gradle 6.5.1
+ 1379  java -v
+ 1380  java --virsion
+ 1381  java --vision
+ 1382  java -vision
+ 1383  java -virsion
+ 1384  java --virsion
+ 1385  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1386  sudo service postgresql stop
+ 1387  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1388  echo %JAVA_HOME%
+ 1389  echo %JAVA HOME%
+ 1390  echo %JAVA-HOME%
+ 1391  echo %JAVA_HOME%
+ 1392  echo JAVA_HOME
+ 1393  echo $JAVA_HOME
+ 1394  export PATH=/opt/apache-maven-3.6.3/bin:$PATH
+ 1395  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1396  docker exec -it  bin/bash
+ 1397  docker ps
+ 1398  docker exec -it eef643125d40 bin/bash
+ 1399  npm install
+ 1400  clear
+ 1401  sdk install gradle 6.5.1
+ 1402  cd ..
+ 1403  mkdir /opt/gradle
+ 1404  mkdir "/opt/gradle"
+ 1405  sudo mkdir /opt/gradle
+ 1406  ls
+ 1407  ls -a
+ 1408  mkdir /opt/gradle
+ 1409  ls
+ 1410  unzip -d /opt/gradle gradle-6.5.1-bin.zip
+ 1411  unzip -d /opt/gradle Download/gradle-6.5.1-bin.zip
+ 1412  cd download
+ 1413  cd Download
+ 1414  ls
+ 1415  ls -a
+ 1416  cd `
+ 1417  q
+ 1418  cd ~
+ 1419  ls
+ 1420  cd Downloads/
+ 1421  mkdir /opt/gradle
+ 1422  unzip -d /opt/gradle gradle-6.5.1-bin.zip
+ 1423  sudo snap install intellij-idea-community --classic
+ 1424  yyyyy
+ 1425  ng serve
+ 1426  clear
+ 1427  ng serve
+ 1428  git fetch
+ 1429  ng serve
+ 1430  ng g m ProgressSpinnerMode
+ 1431  git pull
+ 1432  git fetch
+ 1433  ng serve
+ 1434  npm i --save-dev @angular/cli@latest
+ 1435  mg serve
+ 1436  ng serve
+ 1437  ng add @angular/localize
+ 1438  ng update @angular/core @angular/cli
+ 1439  ng update
+ 1440  ng serve --open
+ 1441  sudo apt-get update && upgrade
+ 1442  ..
+ 1443  sudo apt-get upgrade
+ 1444  ng g sAssetsTable
+ 1445  ng g serveice AssetsTable
+ 1446  ng generate service assetsTableService
+ 1447  ng serve
+ 1448  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1449  sudo service postgresql stop
+ 1450  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1451  docker exec -it  bin/bash
+ 1452  docker run --rm -d  -p 5432:5432/tcp postgres:alpine
+ 1453  ng serve
+ 1454  docker ps -a
+ 1455  docker start eef643125d40
+ 1456  ng serve -o
+ 1457  npm install
+ 1458  npm instal
+ 1459  npm install
+ 1460  cd ..
+ 1461  ls
+ 1462  git clone https://github.com/Umuzi-org/Asset-Management.git 
+ 1463  git pull aa
+ 1464  git pull -h
+ 1465  git pull -a
+ 1466  git fetch -h
+ 1467  git fetch -a
+ 1468  git pull -a
+ 1469  git branch
+ 1470  clear
+ 1471  docker ls -a
+ 1472  docker ps -a
+ 1473  sodo service postgresql stop
+ 1474  sudo service postgresql stop
+ 1475  docker start eef643125d40
+ 1476  docker exec -it eef643125d40 bin/bash
+ 1477  clear
+ 1478  docker exec -it eef643125d40 bin/bash
+ 1479  ls
+ 1480  git push
+ 1481  git push -h
+ 1482  git push --all
+ 1483  git pull -h
+ 1484  git pull --all
+ 1485  git pull 
+ 1486  git push
+ 1487  nololie
+ 1488  ng serve
+ 1489  git push
+ 1490  git push
+ 1491  git log
+ 1492  git checkout 37cadddc5599fe5b4670fec8b303722ab5e57dc3
+ 1493  git log
+ 1494  git clone https://github.com/Umuzi-org/AssestManagement-FrontEnd.git
+ 1495  git push
+ 1496  ng serve
+ 1497  git push
+ 1498  touch roomba.js
+ 1499  node roomba.js 
+ 1500  touch roomba.js
+ 1501  node roomba.js 
+ 1502  touch roomba.js
+ 1503  node roomba.js 
+ 1504  touch roomba.js
+ 1505  node roomba.js 
+ 1506  ng -v
+ 1507  ng --version
+ 1508  git checkout d6972a2c
+ 1509  git clone https://github.com/Umuzi-org/Asset-Management.git
+ 1510  ng serve -o
+ 1511  npm run
+ 1512  npm start
+ 1513  git push
+ 1514  git checkout 1357fb4c1415244d2d614a98bd5a1803896b0531
+ 1515  git pull --all
+ 1516  git checkout origin/BookRepairs 
+ 1517  git branch
+ 1518  git checkout BookRepairs 
+ 1519  git branch
+ 1520  python3 --v
+ 1521  python3 -v
+ 1522  python -v
+ 1523  python --virsion
+ 1524  python3 --virsion
+ 1525  python3 -h
+ 1526  python -V
+ 1527  sudo apt --help
+ 1528  sudo apt update -help
+ 1529  sudo apt update --help
+ 1530  sudo apt get upgrade
+ 1531  sudo apt upgrade
+ 1532  apt-get update
+ 1533  sudo apt-get update
+ 1534  ng g c -m app defectLogger
+ 1535  ng serve
+ 1536  ng g c bookRepairForm
+ 1537  ng g c -m app bookRepairForm
+ 1538  ng serve
+ 1539  python -m pip install Django
+ 1540  python get-pip.py
+ 1541  python -V
+ 1542  pip
+ 1543  /usr/bin/python: No module named pip
+ 1544  pip -V
+ 1545  pip3 -V
+ 1546  apt install python3-pip
+ 1547  sudo apt install python3-pip
+ 1548  pip3 -V
+ 1549  pip -V
+ 1550  python get-pip.py
+ 1551  python -m pip install Django
+ 1552  Django -V
+ 1553  python -m django --version
+ 1554  ls
+ 1555  cd Desktop/
+ 1556  django-admin startproject mysite
+ 1557  ls
+ 1558  cd mysite/
+ 1559  code .
+ 1560  ng serve
+ 1561  git clone https://github.com/nololie/memory-game.git
+ 1562  ls
+ 1563  cd Desktop/ && ls
+ 1564  cd Umuzi\ projects/
+ 1565  ls
+ 1566  cd cloudBnB/
+ 1567  ls
+ 1568  cd python-virtual-environments/
+ 1569  ls
+ 1570  cd env
+ 1571  ls
+ 1572  sorce activate
+ 1573  source bin/activate
+ 1574  pip freeze
+ 1575  deactivate
+ 1576  pip freeze
+ 1577  source bin/activate
+ 1578  which python
+ 1579  python
+ 1580  python3
+ 1581  which python3
+ 1582  deactivate 
+ 1583  which python3
+ 1584  python3
+ 1585  python
+ 1586  ls
+ 1587  cd python-virtual-environments/
+ 1588  ls
+ 1589  cd env/
+ 1590  source bin/activate
+ 1591  pip
+ 1592  pip install django
+ 1593  django-admin 
+ 1594  django-admin startproject cloudBnB
+ 1595  cd ..
+ 1596  ls
+ 1597  django-admin startproject cloudBnB
+ 1598  pip freeze
+ 1599  which python
+ 1600  python
+ 1601  python3
+ 1602  deactivate 
+ 1603  python3
+ 1604  python
+ 1605  cd python-virtual-environments/env/ && source bin/activate
+ 1606  cd ../..
+ 1607  ls
+ 1608  clear
+ 1609  ls
+ 1610  cd cloudBnB/
+ 1611  ls
+ 1612  python manage.py
+ 1613  python manage.py startapp userRegistration
+ 1614  mkdir apps
+ 1615  python manage.py startapp apps/userRegistration
+ 1616  cd apps && python manage.py startapp auserRegistration
+ 1617  cd apps && python ../manage.py startapp auserRegistration
+ 1618  python ../manage.py startapp auserRegistration
+ 1619  python ../manage.py startapp dashboard
+ 1620  /usr/bin/python /home/nolo/.vscode/extensions/ms-python.python-2020.9.114305/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+ 1621  cd cloudBnB/
+ 1622  ls
+ 1623  python manage.py 
+ 1624  clear
+ 1625  ls
+ 1626  python python-virtual-environments/env/bin/activate
+ 1627  python --version
+ 1628  source python-virtual-environments/env/bin/activate
+ 1629  docker-compose up
+ 1630  cd cloudBnB/ && docker-compose up
+ 1631  docker-compose up
+ 1632  ls
+ 1633  cd cloudBnB/
+ 1634  ls
+ 1635  docker-compose up
+ 1636  cle
+ 1637  clear
+ 1638  source  ../python-virtual-environments/env bin/activate
+ 1639  source  ../python-virtual-environments/env/bin/activate
+ 1640  clear
+ 1641  docker-compose up
+ 1642  ls
+ 1643  cd app
+ 1644  cd apps/
+ 1645  ls
+ 1646  cd auserRegistration/
+ 1647  ls
+ 1648  cd ..
+ 1649  ls
+ 1650  cd ..
+ 1651  ls
+ 1652  python manage.py  -h
+ 1653  python manage.py --help
+ 1654  python --help manage.py
+ 1655  ls
+ 1656  python manage.py makemigrations
+ 1657  pip freeze
+ 1658  psycopg2
+ 1659  pip install psycopg2
+ 1660  pip install psycopg2-binary
+ 1661  python manage.py makemigrations
+ 1662  docker-compose up
+ 1663  clear
+ 1664  docker-compose up
+ 1665  clear
+ 1666  docker-compose up
+ 1667  clear
+ 1668  docker-compose up
+ 1669  ls
+ 1670  clear
+ 1671  docker-compose run web python manage.py migrate
+ 1672  docker-compose up
+ 1673  ls 
+ 1674  cd ..
+ 1675  ls
+ 1676  cd python-virtual-environments/env
+ 1677  source bin/activate
+ 1678  cd ../../cloudBnB/ & ls
+ 1679  cd ../../cloudBnB/ && ls
+ 1680  python manage.py makemigrations
+ 1681  docker system prune
+ 1682  y
+ 1683  docker system prune
+ 1684  python manage.py makemigrations
+ 1685  python manage.py migrate
+ 1686  pg_config 
+ 1687  clear
+ 1688  psycopg2
+ 1689  ls
+ 1690  cd ../.. && ls
+ 1691  cd cloudBnB/
+ 1692  ls
+ 1693  source python-virtual-environments/env/bin/activate
+ 1694  psycopg2
+ 1695  pip freeze
+ 1696  psycopg2-binary
+ 1697  wich pg_config
+ 1698  which pg_config
+ 1699  psycopg2
+ 1700  which psycopg2
+ 1701  which psycopg2-decimal
+ 1702  which psycopg2-binary
+ 1703  docker system prune
+ 1704  docker system prune -a
+ 1705  ls
+ 1706  cd cloudBnB/
+ 1707  ls
+ 1708  clear
+ 1709  docker-compose run web python manage.py migrate
+ 1710  sudo systemctl enable docker
+ 1711  docker-compose run web python manage.py migrate
+ 1712  clear
+ 1713  docker system prune
+ 1714  docker system prune -a
+ 1715  clear
+ 1716  docker-compose run web python manage.py migrate
+ 1717  clear
+ 1718  docker-compose run web python manage.py migrate
+ 1719  networks:
+ 1720  docker volume prune
+ 1721  docker-compose run web python manage.py migrate
+ 1722  docker-compose up -d --build db
+ 1723  docker-compose up -d --build web
+ 1724  docker-compose run web python manage.py migrate
+ 1725  docker-compose up -d --build db
+ 1726  docker-compose up -d --build web
+ 1727  docker-compose run web python manage.py migrate
+ 1728  docker-compose up
+ 1729  ls
+ 1730  cd cloudBnB/ && ls
+ 1731  docker-compose up
+ 1732  ls
+ 1733  source ../python-virtual-environments/env/activate
+ 1734  source ../python-virtual-environments/env/bin/activate
+ 1735  clear
+ 1736  docker-compose up
+ 1737  clear
+ 1738  docker-compose up
+ 1739  clear
+ 1740  docker-compose up
+ 1741  clear
+ 1742  docker-compose up
+ 1743  clear
+ 1744  docker-compose up
+ 1745  clear
+ 1746  docker-compose up
+ 1747  clear
+ 1748  docker-compose up
+ 1749  clear
+ 1750  docker-compose up
+ 1751  clear
+ 1752  docker-compose up
+ 1753  clear
+ 1754  docker-compose up
+ 1755  clear
+ 1756  docker-compose up
+ 1757  clear
+ 1758  docker-compose up
+ 1759  clear
+ 1760  docker-compose up
+ 1761  clear
+ 1762  docker-compose up
+ 1763  clear
+ 1764  docker-compose up
+ 1765  clear
+ 1766  docker-compose up
+ 1767  clear
+ 1768  docker-compose up
+ 1769  clear
+ 1770  docker-compose up
+ 1771  clear
+ 1772  docker-compose up
+ 1773  clear
+ 1774  docker-compose up
+ 1775  clear
+ 1776  docker-compose up
+ 1777  clear
+ 1778  docker-compose up
+ 1779  clear
+ 1780  docker-compose up
+ 1781  clear
+ 1782  docker-compose up
+ 1783  clear
+ 1784  docker-compose up
+ 1785  clear
+ 1786  docker-compose up
+ 1787  clear
+ 1788  docker-compose up
+ 1789  clear
+ 1790  docker-compose up
+ 1791  ls
+ 1792  clear
+ 1793  ls
+ 1794  python manage.py 
+ 1795  clear
+ 1796  ls
+ 1797  source ../python-virtual-environments/env/bin/activate
+ 1798  clear
+ 1799  python manage.py 
+ 1800  python manage.py migrate
+ 1801  python manage.py 
+ 1802  python manage.py makemigrations
+ 1803  python manage.py runserver
+ 1804  clear
+ 1805  python manage.py 
+ 1806  python manage.py createsuperuser
+ 1807  python manage.py syncdb
+ 1808  ./manage.py syncdb
+ 1809  docker-compose run web python manage.py
+ 1810  docker-compose run web python manage.py createsuperuser
+ 1811  docker-compose 
+ 1812  docker-compose exec python manage.py createsuperuser
+ 1813  docker-compose exec manage.py createsuperuser
+ 1814  docker-compose exec 
+ 1815  docker-compose 
+ 1816  docker-compose top
+ 1817  docker-compose
+ 1818  docker-compose exec
+ 1819  docker-compose exec -u ./manage.py createsuperuser
+ 1820  docker-compose exec -u manage.py createsuperuser
+ 1821  clear
+ 1822  docker-compose
+ 1823  docker-compose run web manage.py createsuperuser
+ 1824  docker-compose run web python manage.py createsuperuser
+ 1825  docker-compose run web python manage.py makemigrations
+ 1826  ls
+ 1827  clear
+ 1828  pip freeze
+ 1829  source python-virtual-environments/env/bin/activate
+ 1830  pip freeze
+ 1831  pip uninstall pillow
+ 1832  pip freeze
+ 1833  deactivate 
+ 1834  pip freeze
+ 1835  pip uninstall pillow
+ 1836  pip freeze
+ 1837  pip uninstall pil
+ 1838  sudo pip uninstall pil
+ 1839  udo -H pip3 install pillow
+ 1840  sudo -H pip3 install pillow
+ 1841  source python-virtual-environments/env/bin/activate
+ 1842  sudo -H pip3 install pillow
+ 1843  pip freeze
+ 1844  python -m pip freeze
+ 1845  sudo pip install pillow
+ 1846  python -m pip install pillow
+ 1847  docker-compose run web python manage.py makemigrations
+ 1848  cd cloudBnB/
+ 1849  docker-compose run web python manage.py makemigrations
+ 1850  pip install Pillow
+ 1851  pip uninstall Pillow
+ 1852  python -m pip uninstall Pillow
+ 1853  pip freeze
+ 1854  pip(3) uninstall PIL
+ 1855  pip uninstall PIL
+ 1856  python -m pip uninstall PIL
+ 1857  python -m pip install pillow4.3.0
+ 1858  python -m pip3 install pillow
+ 1859  pip3 install pillow
+ 1860  pip freeze
+ 1861  docker-compose run web python manage.py makemigrations
+ 1862  python -m pip uninstall PIL
+ 1863  python -m pip uninstall pillow
+ 1864  python3 -m pip install --upgrade Pillow
+ 1865  docker-compose run web python manage.py makemigrations
+ 1866  pip freeze
+ 1867  python -m pip uninstall pillow
+ 1868  python -V
+ 1869  docker-compose run web python3 manage.py makemigrations
+ 1870  sudo apt-get install python-imaging
+ 1871  c:\Python35>python -m pip install Pillow
+ 1872  \Python35>python -m pip install Pillow
+ 1873  pip uninstall PIL
+ 1874  pip install  PIL 
+ 1875  pip freeze
+ 1876  python -m pip install Pillow
+ 1877  docker-compose run web python3 manage.py makemigrations
+ 1878  pip uninstall PIL
+ 1879  pip install  PIL 
+ 1880  sudo pip install  PIL 
+ 1881  cd ~
+ 1882  ls
+ 1883  cd Downloads/
+ 1884  ls
+ 1885  cd Python
+ 1886  pip install  PIL 
+ 1887  cd Python-3.6.9/
+ 1888  ./config
+ 1889  ./configure 
+ 1890  make
+ 1891  sudo make install
+ 1892  file /usr/local/bin/python3
+ 1893  ls
+ 1894  code .
+ 1895  ls
+ 1896  clear
+ 1897  source python-virtual-environments/env/bin/activate
+ 1898  cd cloudBnB/
+ 1899  python manage.py 
+ 1900  python manage.py makemigrations
+ 1901  cd
+ 1902  cd Desktop/Umuzi\ projects/cloudBnB/
+ 1903  ls
+ 1904  cd cloudBnB/
+ 1905  ls
+ 1906  clear
+ 1907  cd ..
+ 1908  cd
+ 1909  cd Desktop/Umuzi\ projects/cloudBnB/
+ 1910  ls
+ 1911  docker-compose run web django-admin startproject myCloudBnB
+ 1912  ls -l
+ 1913  django-admin
+ 1914  django
+ 1915  python -m django -V
+ 1916  python -m django -v
+ 1917  python -m django --virsion
+ 1918  python -m django 
+ 1919  python -m django runserver
+ 1920  sudo chown -R $USER:$USER .
+ 1921  docker-compose up
+ 1922  ls -l
+ 1923  docker-compose up
+ 1924  cd myCloudBnB/
+ 1925  docker-compose up
+ 1926  clear
+ 1927  docker-compose up
+ 1928  Babel-2.8.0
+ 1929  pip install django-phonenumber-field[phonenumbers]
+ 1930  docker-compose up
+ 1931  pip freeze
+ 1932  pip uninstall django-phonenumber-field
+ 1933  pip freeze
+ 1934  pip phonenumbers
+ 1935  pip uninstall phonenumbers
+ 1936  pip freeze
+ 1937  pip install django-phone-field
+ 1938  pip freeze
+ 1939  clear
+ 1940  docker-compose up
+ 1941  pip freeze
+ 1942  clear
+ 1943  pip uninstall django-phone-field
+ 1944  pip install django-phonenumber-field[phonenumberslite]
+ 1945  docker-compose up
+ 1946  ls
+ 1947  cd  myCloudBnB/
+ 1948  ls
+ 1949  python manage.py
+ 1950  python manage.py startapp userRegistration
+ 1951  clear
+ 1952  source ../python-virtual-environments/env/bin/activate
+ 1953  pip install django-phonenumber-field
+ 1954  docker-compose down
+ 1955  pip install Babel
+ 1956  docker-compose down
+ 1957  ls
+ 1958  cd Desktop/
+ 1959  ls
+ 1960  node Fibonacci1.js 
+ 1961  node Fibonacci1.js
+ 1962  cd Desktop/
+ 1963  node Fibonacci1.js
+ 1964  clear
+ 1965  node
+ 1966  clear
+ 1967  node Fibonacci1.js
+ 1968  clear
+ 1969  node Fibonacci1.js
+ 1970  clear
+ 1971  node Fibonacci1.js
+ 1972  clear
+ 1973  node Fibonacci1.js
+ 1974  clear
+ 1975  node Fibonacci1.js
+ 1976  clear
+ 1977  node Fibonacci1.js
+ 1978  cd Desktop/
+ 1979  clear
+ 1980  node string\ formating.js 
+ 1981  clear
+ 1982  node string\ reverse.js 
+ 1983  node string\ formating.js 
+ 1984  node string\ reverse.js 
+ 1985  clear
+ 1986  node string\ reverse.js 
+ 1987  clear
+ 1988  node string\ reverse.js 
+ 1989  clear
+ 1990  node string\ reverse.js 
+ 1991  clear
+ 1992  node string\ reverse.js 
+ 1993  clear
+ 1994  node string\ reverse.js 
+ 1995  clear
+ 1996  node string\ reverse.js 
+ 1997  pwd
+ 1998  ls
+ 1999  cd Desktop/
+ 2000  ls
+ 2001  cd git-basic-exercises
+ 2002  mkdir git-basic-exercises
+ 2003  ld
+ 2004  cd git-basic-exercises
+ 2005  ls
+ 2006  pwd
+ 2007  ls -a
+ 2008  git init
+ 2009  ls -a
+ 2010  git status
+ 2011  git log
+ 2012  git add
+ 2013  git add -h
+ 2014  git add -A
+ 2015  git status 
+ 2016  touch README.md
+ 2017  git status
+ 2018  git add -A
+ 2019  git status
+ 2020  git add -h
+ 2021  git rm README.md 
+ 2022  git status
+ 2023  git rm --cached README.md 
+ 2024  git status
+ 2025  git add
+ 2026  git add README.md 
+ 2027  git status
+ 2028  git commit -h
+ 2029  git commit -m "initial commit"
+ 2030  git status
+ 2031  git log
+ 2032  nano README.md
+ 2033  cat README.md 
+ 2034  git status 
+ 2035  git add -a
+ 2036  git add -A
+ 2037  git commit -m "second commit"
+ 2038  nano README.md 
+ 2039  cat README.md 
+ 2040  git status 
+ 2041  git add README.md 
+ 2042  git status 
+ 2043  git log
+ 2044  ls
+ 2045  it commit third commit
+ 2046  git commit -m third commit
+ 2047  git log
+ 2048  git status 
+ 2049  git commit -m "third commit"
+ 2050  git log
+ 2051  git checkout b2478091b61a91554551c2ec51002fb992960b89
+ 2052  git log
+ 2053  cat README.md 
+ 2054  git checkout main
+ 2055  git checkout -h
+ 2056  git checkout master 
+ 2057  git log
+ 2058  cat README.md 
+ 2059  git branch
+ 2060  git branch -h
+ 2061  git branch milkshake-flavours
+ 2062  git branch
+ 2063  git checkout milkshake-flavours 
+ 2064  git branch
+ 2065  nano milkshakes.md
+ 2066  cat milkshakes.md 
+ 2067  git status
+ 2068  git log
+ 2069  git comit -m "added initial flavours"
+ 2070  git commit -m "added initial flavours"
+ 2071  git commit -a -m "added initial flavours"
+ 2072  git commit -a "added initial flavours"
+ 2073  git commit -all "added initial flavours"
+ 2074  git commit --a "added initial flavours"
+ 2075  git commit -a "added initial flavours"
+ 2076  git commit --all "added initial flavours"
+ 2077  git add milkshakes.md 
+ 2078  git commit -m "added initial flavours"
+ 2079  git status
+ 2080  git log
+ 2081  git checkout master 
+ 2082  git log 
+ 2083  git checkout -b history
+ 2084  git log
+ 2085  git branch
+ 2086  history > history.txt
